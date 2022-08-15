@@ -2,6 +2,6 @@
 
 ### Project for learning
 #### Technologies used:
-##### HTML5, CSS3, React and Typescript 
+##### HTML5, CSS3, React and TypeScript 
 #### Copyright:
 ##### Netflix, Themoviedb
