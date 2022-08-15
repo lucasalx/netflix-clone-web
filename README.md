@@ -2,5 +2,4 @@
 
 ### Project for learning
 #### Technologies used:
-##### HTML5
-##### CSS3
+##### HTML5, CSS3, and React 
