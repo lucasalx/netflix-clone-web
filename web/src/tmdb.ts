@@ -1,5 +1,5 @@
-export const API_KEY = import.meta.env.VITE_API_KEY;
-export const API_BASE = import.meta.env.VITE_API_BASE;
+export const API_KEY = import.meta.env.VITE_API_KEY; //themoviedb api key (need account)
+export const API_BASE = import.meta.env.VITE_API_BASE; //https://api.themoviedb.org/3
 
 /*
 - Originais da Netflix
