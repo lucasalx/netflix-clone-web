@@ -10,7 +10,7 @@ export const API_BASE = import.meta.env.VITE_API_BASE; //https://api.themoviedb.
 - Terror
 - Romance
 - Documentários
-*/
+*/ 
 
 const basicFetch = async (endpoint: any) => {
     const req = await fetch(`${API_BASE}${endpoint}`);
